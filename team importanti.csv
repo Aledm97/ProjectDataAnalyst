@@ -1,0 +1,50 @@
+Season;Driver;Age;Chassis;Engine;Tyres;Poles;Wins;Podiums;Fastest laps;Points (Tot);% Points;Clinched;# of roundsremaining;Margin (second place finisher);% Margin
+1952;Alberto Ascari;34;Ferrari;Ferrari;F/P;5;6;6;6;36;74,306;Round 6 of 8;2;12;33,333
+1953;Alberto Ascari;35;Ferrari;Ferrari;P;6;5;5;4;34,5;57,407;Round 8 of 9;1;6,5;18,841
+1955;Juan Manuel Fangio;44;Mercedes;Mercedes;C;3;4;5;3;40;65,079;Round 6 of 7;1;16,5;41,25
+1956;Juan Manuel Fangio;45;Ferrari;Ferrari;E;6;3;5;4;30;45,833;Round 8 of 8;0;3;10
+1958;Mike Hawthorn;29;Ferrari;Ferrari;E;4;1;7;5;42;49,495;Round 11 of 11;0;1;2,381
+1961;Phil Hill;34;Ferrari;Ferrari;D;5;2;6;2;34;52,778;Round 7 of 8;1;1;2,941
+1964;John Surtees;30;Ferrari;Ferrari;D;2;2;6;2;40;44,444;Round 10 of 10;0;1;2,5
+1974;Emerson Fittipaldi;27;McLaren;Ford;G;2;3;7;0;55;40,741;Round 15 of 15;0;3;5,455
+1975;Niki Lauda;26;Ferrari;Ferrari;G;9;5;8;2;64,5;55,128;Round 13 of 14;1;19,5;30,233
+1976;James Hunt;29;McLaren;Ford;G;8;6;8;2;69;47,917;Round 16 of 16;0;1;1,449
+1977;Niki Lauda;28;Ferrari;Ferrari;G;2;3;10;3;72;47,059;Round 15 of 17;2;17;23,611
+1979;Jody Scheckter;29;Ferrari;Ferrari;M;1;3;6;0;51;44,444;Round 13 of 15;2;4;7,843
+1980;Alan Jones;34;Williams;Ford;G;3;5;10;5;67;56,349;Round 13 of 14;1;13;19,403
+1982;Keke Rosberg;34;Williams;Ford;G;1;1;6;0;44;30,556;Round 16 of 16;0;5;11,364
+1984;Niki Lauda;35;McLaren;TAG;M;0;5;9;5;72;51,613;Round 16 of 16;0;0,5;0,694
+1985;Alain Prost;30;McLaren;TAG;G;2;5;11;5;73;52,778;Round 14 of 16;2;20;27,397
+1986;Alain Prost;31;McLaren;TAG;G;1;4;11;2;72;51,389;Round 16 of 16;0;2;2,778
+1987;Nelson Piquet;35;Williams;Honda;G;4;3;11;4;73;52,778;Round 15 of 16;1;12;16,438
+1988;Ayrton Senna;28;McLaren;Honda;G;13;8;11;3;90;65,278;Round 15 of 16;1;3;3,333
+1989;Alain Prost;34;McLaren;Honda;G;2;4;11;5;76;56,25;Round 15 of 16;1;16;21,053
+1990;Ayrton Senna;30;McLaren;Honda;G;10;6;11;2;78;54,167;Round 15 of 16;1;7;8,974
+1991;Ayrton Senna;31;McLaren;Honda;G;8;7;12;2;96;61,935;Round 15 of 16;1;24;25
+1992;Nigel Mansell;39;Williams;Renault;G;14;9;12;8;108;67,5;Round 11 of 16;5;52;48,148
+1993;Alain Prost;38;Williams;Renault;G;13;7;12;6;99;61,875;Round 14 of 16;2;26;26,263
+1996;Damon Hill;36;Williams;Renault;G;9;8;10;5;97;60,625;Round 16 of 16;0;19;19,588
+1997;Jacques Villeneuve;26;Williams;Renault;G;10;7;8;3;81;47,647;Round 17 of 17;0;39;48,148
+1998;Mika Häkkinen;30;McLaren;Mercedes;B;9;8;11;6;100;62,5;Round 16 of 16;0;14;14
+1999;Mika Häkkinen;31;McLaren;Mercedes;B;11;5;10;6;76;47,5;Round 16 of 16;0;2;2,632
+2000;Michael Schumacher;31;Ferrari;Ferrari;B;9;9;12;2;108;63,529;Round 16 of 17;1;19;17,593
+2001;Michael Schumacher;32;Ferrari;Ferrari;B;11;9;14;3;123;72,353;Round 13 of 17;4;58;47,154
+2002;Michael Schumacher;33;Ferrari;Ferrari;B;7;11;17;7;144;84,706;Round 11 of 17;6;67;46,528
+2003;Michael Schumacher;34;Ferrari;Ferrari;B;5;6;8;5;93;58,125;Round 16 of 16;0;2;2,151
+2004;Michael Schumacher;35;Ferrari;Ferrari;B;8;13;15;10;148;82,222;Round 14 of 18;4;34;22,973
+2007;Kimi Räikkönen;28;Ferrari;Ferrari;B;3;6;12;6;110;64,706;Round 17 of 17;0;1;0,909
+2008;Lewis Hamilton;23;McLaren;Mercedes;B;7;5;10;1;98;54,444;Round 18 of 18;0;1;1,02
+2010;Sebastian Vettel;23;Red Bull;Renault;B;10;5;10;3;256;53,895;Round 19 of 19;0;4;1,563
+2011;Sebastian Vettel;24;Red Bull;Renault;P;15;11;17;3;392;82,526;Round 15 of 19;4;122;31,122
+2012;Sebastian Vettel;25;Red Bull;Renault;P;6;5;10;6;281;56,2;Round 20 of 20;0;3;1,068
+2013;Sebastian Vettel;26;Red Bull;Renault;P;9;13;16;7;397;83,579;Round 16 of 19;3;155;39,043
+2014;Lewis Hamilton;29;Mercedes;Mercedes;P;7;11;16;7;384;76,8;Round 19 of 19;0;67;17,448
+2015;Lewis Hamilton;30;Mercedes;Mercedes;P;11;10;17;8;381;80,211;Round 16 of 19;3;59;15,486
+2016;Nico Rosberg;31;Mercedes;Mercedes;P;8;9;16;6;385;73,333;Round 21 of 21;0;5;1,299
+2017;Lewis Hamilton;32;Mercedes;Mercedes;P;11;9;13;7;363;72,6;Round 18 of 20;2;46;12,672
+2018;Lewis Hamilton;33;Mercedes;Mercedes;P;11;11;17;3;408;77,714;Round 19 of 21;2;88;21,569
+2019;Lewis Hamilton;34;Mercedes;Mercedes;P;5;11;17;6;413;75,641;Round 19 of 21;2;87;21,065
+2020;Lewis Hamilton;35;Mercedes;Mercedes;P;10;11;14;6;347;78,507;Round 14 of 17;3;124;35,735
+2021;Max Verstappen;24;Red Bull;Honda;P;10;10;18;6;395,5;69,692;Round 22 of 22;0;8;2,023
+2022;Max Verstappen;25;Red Bull;RBPT;P;7;15;17;5;454;76,174;Round 18 of 22;4;146;32,159
+2023;Max Verstappen;26;Red Bull;Honda RBPT;P;12;19;21;9;575;92,742;Round 17 of 22;5;290;50,435
